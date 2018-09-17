@@ -1,0 +1,34 @@
+_repo: The-Brownie-Scouts-at-Windmill-Farm_52254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Wirt, Mildred Augustine
+    - Wirt, Ann
+    - Benson, Mildred Wirt
+    - Augustine, Mildred
+    - Benson, Millie
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/c#a36376
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+description: ''
+gutenberg_issued: '2016-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Brownie Girl Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Brownie Scouts at Windmill Farm
+url: http://www.gutenberg.org/ebooks/52254
